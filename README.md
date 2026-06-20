@@ -72,6 +72,7 @@ Here's where we're roughly at:
 
 ### Stretch goals
 
+- [ ] Implementing solving visualizations
 - [ ] Implementing a simulator for manual solution attempts
 - [ ] Implementing a problem generator
 

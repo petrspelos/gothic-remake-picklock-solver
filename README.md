@@ -58,6 +58,21 @@ As a stretch goal, this project may provide a lockpicking simulator with generat
 
 The effectiveness of BFS vs DFS is also a subject of discovery for this project.
 
+Problem examples can be found in the `data` directory of this repo, with `real-problems` containing samples from the game, and `scenarios` containing hand-crafted problems testing various scenarios.
+
+Each problem is a `.prob` file containing UTF-8 data in the following format:
+
+```
+[INITIAL-STATE]
+
+[TARGET-STATE]
+
+[RULE-SET]
+
+```
+
+Following the structure described above. All white-space characters including newlines should be ignored.
+
 ## Project state
 
 This project is in its early stages. I'm working on this for fun, outside of my day-job, expect it to move slowly.

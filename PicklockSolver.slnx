@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PicklockSolver.Core/PicklockSolver.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PicklockSolver.Tests/PicklockSolver.Tests.csproj" />
+  </Folder>
+</Solution>
